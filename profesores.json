@@ -1,0 +1,16 @@
+[
+    {
+        "id": 8160,
+        "nombre": "Oscar Rosales ",
+        "apellidos": "Garcia",
+        "telefono": "1221",
+        "direccion": "calle 23"
+    },
+    {
+        "id": 8495,
+        "nombre": "Karim Robles ",
+        "apellidos": "Robledo",
+        "telefono": "123231",
+        "direccion": "calle 45"
+    }
+]
